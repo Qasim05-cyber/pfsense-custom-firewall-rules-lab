@@ -93,6 +93,3 @@ Hands-on cybersecurity lab focused on planning, configuring, and validating fire
 
 All testing was completed in the provided isolated lab environment.
 
-## Skills Demonstrated
-
-`pfSense` `Firewall Rules` `Network Security` `Stateful Firewalling` `ACL Design` `WAN/LAN Segmentation` `DMZ` `OpenVPN` `SFTP` `Nmap` `Firewall Log Analysis`
